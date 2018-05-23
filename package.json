@@ -1,0 +1,23 @@
+{
+  "name": "mongodb-learn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhishek12414/mongodb-learn.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhishek12414/mongodb-learn/issues"
+  },
+  "homepage": "https://github.com/abhishek12414/mongodb-learn#readme",
+  "dependencies": {
+    "mocha": "^5.2.0",
+    "mongoose": "^5.1.2"
+  }
+}
